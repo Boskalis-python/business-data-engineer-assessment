@@ -46,6 +46,7 @@ Could you help us design a more robust edge processing system that addresses the
 Best regards,  
 James  
 P.S. The Prins der Nederlanden incident cost us €45,000 in delays - management is very motivated to get this right.
+
 ---
 
 Your task is to help Jan design and implement an optimized edge processing solution for the Technical Department. Consider the specific challenges outlined in the email and propose a scalable, efficient system that can handle data processing on Boskalis' diverse fleet of dredging vessels. How would you approach this problem?
