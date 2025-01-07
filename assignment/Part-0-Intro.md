@@ -11,11 +11,15 @@ Please select one of these challenges to complete. While you only need to solve 
 We want to evaluate your ability to:
 
 - Extract technical requirements from business communications
-- Design scalable solutions that consider real-world constraints
+- Designing a scalable solutions that considers real-world constraints
 - Balance technical ideals with practical limitations
 - Consider costs and efficiency in your solutions
 
 We encourage you to explain your reasoning behind key decisions. Please specify which part you're choosing to tackle before providing your solution.
+
+>[!TIP]
+> - Please submit your solution as a markdown file, with the name `Part-X-Solution.md`, where `X` is the part number you're solving. You can include code snippets, diagrams, or any other relevant information to support your solution.
+> - Please note that Boskalis is on Azure, so if you're using cloud services, we recommend using Azure services for your solution. Further Boskalis uses Databricks for data processing and Github for CI/CD.
 
 Best regards,  
 Data Science & Engineering Team  
